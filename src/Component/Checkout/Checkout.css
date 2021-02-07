@@ -1,0 +1,11 @@
+.banner{
+    width: 100%;
+    height: max-content;
+    margin-bottom: 10px;
+}
+.shoping_title{
+   
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightblue;
+}
